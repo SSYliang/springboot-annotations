@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "xiaomao",
+      "type": "com.example.springtest.util.MyConfigurationProperties",
+      "sourceType": "com.example.springtest.util.MyConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "xiaomao.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.springtest.util.MyConfigurationProperties"
+    },
+    {
+      "name": "xiaomao.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springtest.util.MyConfigurationProperties"
+    }
+  ],
+  "hints": []
+}
